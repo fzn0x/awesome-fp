@@ -28,6 +28,7 @@ A novel exploration of symbolic transformations across discrete domains
 The list of people is written by the country where they come from
 
 - 🇮🇩 :
+  - [@ri7nz](https://github.com/ri7nz) - Actively sharing talks and topics about functional programming and [ReasonML](https://reasonml.github.io/) for online communities
 
 ## Communities
 
