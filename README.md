@@ -21,6 +21,7 @@ Awesome list of Functional Programming.
 A novel exploration of symbolic transformations across discrete domains
 - [Functional Programming by Tony Scialo, CodeByte](https://tony-scialo.github.io/slides-functional-programing)
 - [Functors, Applicatives, And Monads In Pictures](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+- [A functional javascript workshop](https://github.com/timoxley/functional-javascript-workshop) - Teaching fundamental functional programming features of Javascript.
 
 ## People
 
