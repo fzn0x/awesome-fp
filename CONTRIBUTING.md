@@ -10,7 +10,7 @@ Before started, I'm as the initiator would say thank you for your contribution a
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Atom Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [atom@github.com](mailto:atom@github.com).
+This project and everyone participating in it is governed by [@fncolon Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [fncolon@pm.me](mailto:fncolon@pm.me).
 
 ## Commit Message
 
