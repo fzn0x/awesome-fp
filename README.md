@@ -30,6 +30,9 @@ A novel exploration of symbolic transformations across discrete domains
 
 > You can promote whoever you think capable to be written here, even yourself, we will check your track record if you are really capable to be written here
 
+<details>
+<summary>Click to show people list</summary>
+
 - [@ri7nz](https://github.com/ri7nz)
 - [@dewey92](https://github.com/dewey92)
 - [@broerjuang](https://github.com/broerjuang)
@@ -38,6 +41,10 @@ A novel exploration of symbolic transformations across discrete domains
 - [@artileda](https://github.com/artileda)
 - [@miciek](https://github.com/miciek)
 - [@chenglou](https://github.com/chenglou)
+
+</details>
+
+
 
 ## Communities
 
