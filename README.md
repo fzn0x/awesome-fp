@@ -37,6 +37,7 @@ A novel exploration of symbolic transformations across discrete domains
 - [@rubiagatra](https://github.com/rubiagatra)
 - [@artileda](https://github.com/artileda)
 - [@miciek](https://github.com/miciek)
+- [@chenglou](https://github.com/chenglou)
 
 ## Communities
 
