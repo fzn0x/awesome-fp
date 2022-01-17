@@ -44,6 +44,8 @@ The list of people is written by the country where they come from
 
 > List of Functional Programming communities.
 
+- [Haskell Matrix Community](https://riot.im/app/#/room/#haskell:matrix.org)
+
 ## Events
 
 > List of Functional Programming events.
