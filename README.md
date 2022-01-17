@@ -2,9 +2,9 @@
 
 [![awesome-badge](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A collaborative curated list of Functional Programming resource, people, communities, events, tools, and books
+> A collaborative curated list of Functional Programming resources, people, communities, events, tools, and books
 
-Awesome list of functional programming.
+Awesome list of Functional Programming.
 
 ## Contents
 
