@@ -1,5 +1,8 @@
 # awesome-fp
-Awesome list of functional programming
+
+[![awesome-badge](https://awesome.re/badge.svg)](https://awesome.re)
+
+Awesome list of functional programming.
 
 ## Resources
 
