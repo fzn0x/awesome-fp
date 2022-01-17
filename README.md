@@ -25,6 +25,10 @@ A novel exploration of symbolic transformations across discrete domains
 - [A functional javascript workshop](https://github.com/timoxley/functional-javascript-workshop) - Teaching fundamental functional programming features of Javascript.
 - [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 - [Dev.to #functional](https://dev.to/t/functional)
+- [Learn You A Haskell](http://learnyouahaskell.com/)
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+- [The Agda Wiki - Tutorials](https://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.Othertutorials)
+- [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming)
 
 ## People
 
