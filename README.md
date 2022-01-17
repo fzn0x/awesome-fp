@@ -51,6 +51,7 @@ A novel exploration of symbolic transformations across discrete domains
 > List of Functional Programming communities.
 
 - [Haskell Matrix Community](https://riot.im/app/#/room/#haskell:matrix.org)
+- [/r/ProgrammingLanguages](https://discord.gg/4Kjt3ZE)
 
 ## Events
 
