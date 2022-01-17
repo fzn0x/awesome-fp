@@ -69,6 +69,7 @@ for reliable web applications.
 - [Haskell](https://www.haskell.org/) - An advanced, purely functional programming language
 - [Erlang](https://www.erlang.org/) - Practical functional programming
 for a parallel world
+- [Scala](https://www.scala-lang.org/) - Scala combines object-oriented and functional programming in one concise, high-level language.
 
 ## Books
 
