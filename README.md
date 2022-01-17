@@ -17,6 +17,7 @@ Awesome list of functional programming.
 
 - [Functional Programming Forever](https://slides.com/thomasomans/functional-programming-forever/) - 
 A novel exploration of symbolic transformations across discrete domains
+- [Functional Programming by Tony Scialo, CodeByte](https://tony-scialo.github.io/slides-functional-programing)
 
 ## People
 
