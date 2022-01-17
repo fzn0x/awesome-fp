@@ -47,6 +47,8 @@ The list of people is written by the country where they come from
 
 > List of Functional Programming events.
 
+- [Fun(c) 2018.4: Adam Rosien - why do Functional Programmers always talk about Algebra(s)?](https://www.youtube.com/watch?v=s2ay9nEW3ak) - Why functional programmers talk about them constantly, and how you can use them in your projects.
+
 ## Tools
 
 > List of Functional Programming supported tools.
