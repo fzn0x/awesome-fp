@@ -30,15 +30,13 @@ A novel exploration of symbolic transformations across discrete domains
 
 > You can promote whoever you think capable to be written here, even yourself, we will check your track record if you are really capable to be written here
 
-The list of people is written by the country where they come from
-
-- 🇮🇩 :
-  - [@ri7nz](https://github.com/ri7nz)
-  - [@dewey92](https://github.com/dewey92)
-  - [@broerjuang](https://github.com/broerjuang)
-  - [@squest](https://github.com/squest)
-  - [@rubiagatra](https://github.com/rubiagatra)
-  - [@artileda](https://github.com/artileda)
+- [@ri7nz](https://github.com/ri7nz)
+- [@dewey92](https://github.com/dewey92)
+- [@broerjuang](https://github.com/broerjuang)
+- [@squest](https://github.com/squest)
+- [@rubiagatra](https://github.com/rubiagatra)
+- [@artileda](https://github.com/artileda)
+- [@miciek](https://github.com/miciek)
 
 ## Communities
 
