@@ -48,6 +48,7 @@ The list of people is written by the country where they come from
 for reliable web applications.
 - [ClojureScript](https://github.com/clojure/clojurescript) - Clojure to JS compiler. LISP-like language, as is ClojureScript, and has extensive library support.
 - [PureScript](https://www.purescript.org/) - A strongly-typed functional programming language that compiles to JavaScript
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles language.
 
 ## Books
 
