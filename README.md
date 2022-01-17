@@ -34,3 +34,5 @@ The list of people is written by the country where they come from
 ## Tools
 
 ## Books
+
+- [Composing Software](https://leanpub.com/composingsoftware) - An Exploration of Functional Programming and Object Composition in JavaScript
