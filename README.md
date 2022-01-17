@@ -52,7 +52,8 @@ The list of people is written by the country where they come from
 - [OCaml](https://ocaml.org/) - OCaml is an industrial-strength programming language supporting functional, imperative and object-oriented styles
 - [Elm](https://elm-lang.org/) - A delightful language
 for reliable web applications.
-- [ClojureScript](https://github.com/clojure/clojurescript) - Clojure to JS compiler. LISP-like language, as is ClojureScript, and has extensive library support.
+- [Clojure](https://clojure.org/) - Clojure is a dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system. Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures.
+  - [ClojureScript](https://github.com/clojure/clojurescript) - Clojure to JS compiler. LISP-like language, as is ClojureScript, and has extensive library support.
 - [PureScript](https://www.purescript.org/) - A strongly-typed functional programming language that compiles to JavaScript
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles language.
 - [F Sharp/F#](https://fsharp.org/) - F# empowers everyone to write succinct, robust and performant code
