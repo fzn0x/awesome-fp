@@ -29,6 +29,7 @@ A novel exploration of symbolic transformations across discrete domains
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - [The Agda Wiki - Tutorials](https://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.Othertutorials)
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming)
+- [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 
 ## People
 
