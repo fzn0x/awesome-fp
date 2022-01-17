@@ -48,12 +48,17 @@ The list of people is written by the country where they come from
 > List of Functional Programming supported tools.
 
 - [ReasonML](https://reasonml.github.io/) - Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems.
+  - [BuckleScript & Reason - ReScript](https://rescript-lang.org/) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript. It comes with a lightning fast compiler toolchain that scales to any codebase size.
 - [OCaml](https://ocaml.org/) - OCaml is an industrial-strength programming language supporting functional, imperative and object-oriented styles
 - [Elm](https://elm-lang.org/) - A delightful language
 for reliable web applications.
 - [ClojureScript](https://github.com/clojure/clojurescript) - Clojure to JS compiler. LISP-like language, as is ClojureScript, and has extensive library support.
 - [PureScript](https://www.purescript.org/) - A strongly-typed functional programming language that compiles to JavaScript
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles language.
+- [F Sharp/F#](https://fsharp.org/) - F# empowers everyone to write succinct, robust and performant code
+  - [Fable](https://fable.io/) - Fable is a compiler that brings F# into the JavaScript ecosystem
+- [Elixir](https://elixir-lang.org/) - Elixir is a dynamic, functional language for building scalable and maintainable applications.
+- [Haskell](https://www.haskell.org/) - An advanced, purely functional programming language
 
 ## Books
 
