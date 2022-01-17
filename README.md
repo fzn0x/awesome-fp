@@ -32,6 +32,7 @@ The list of people is written by the country where they come from
   - [@dewey92](https://github.com/dewey92)
   - [@broerjuang](https://github.com/broerjuang)
   - [@squest](https://github.com/squest)
+  - [@rubiagatra](https://github.com/rubiagatra)
 
 ## Communities
 
