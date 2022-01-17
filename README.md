@@ -73,3 +73,4 @@ for a parallel world
 - [Composing Software](https://leanpub.com/composingsoftware) - An Exploration of Functional Programming and Object Composition in JavaScript
 - [Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/)
 - [Real World OCaml](https://dev.realworldocaml.org/) - Functional Programming For The Masses
+- [The Craft of Functional Programming (International Computer Science Series)](https://www.amazon.com/Haskell-Functional-Programming-International-Computer-ebook/dp/B015YA15LI)
