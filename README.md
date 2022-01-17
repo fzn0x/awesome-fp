@@ -60,6 +60,8 @@ for reliable web applications.
   - [Fable](https://fable.io/) - Fable is a compiler that brings F# into the JavaScript ecosystem
 - [Elixir](https://elixir-lang.org/) - Elixir is a dynamic, functional language for building scalable and maintainable applications.
 - [Haskell](https://www.haskell.org/) - An advanced, purely functional programming language
+- [Erlang](https://www.erlang.org/) - Practical functional programming
+for a parallel world
 
 ## Books
 
