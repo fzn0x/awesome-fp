@@ -12,12 +12,13 @@ Awesome list of Functional Programming.
 - [Resources](#resources)
 - [People](#people)
 - [Communities](#communities)
-- [Events](#events)
+- [Talks](#talks)
 - [Tools](#tools)
 - [Books](#books)
 
 ## Resources
 
+- [Thinking Functionally](https://www.youtube.com/watch?v=-KA3BSdqYug)
 - [Functional Programming Forever](https://slides.com/thomasomans/functional-programming-forever/) - 
 A novel exploration of symbolic transformations across discrete domains
 - [Functional Programming by Tony Scialo, CodeByte](https://tony-scialo.github.io/slides-functional-programing)
@@ -31,6 +32,8 @@ A novel exploration of symbolic transformations across discrete domains
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming)
 - [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 - [Elixir And Phoenix: Real World Functional Programming](https://www.tutorialspoint.com/elixir_and_phoenix_real_world_functional_programming/index.asp)
+- [Functors, in theory and in practice! - Martin Menestret](https://www.youtube.com/watch?v=_zRBKHN8exA&feature=youtu.be)
+- [FP to the Max - John De Goes](https://www.youtube.com/watch?v=sxudIMiOo68)
 
 ## People
 
@@ -59,12 +62,13 @@ A novel exploration of symbolic transformations across discrete domains
 - [Haskell Matrix Community](https://riot.im/app/#/room/#haskell:matrix.org)
 - [/r/ProgrammingLanguages](https://discord.gg/4Kjt3ZE)
 
-## Events
+## Talks
 
-> List of Functional Programming events.
+> List of Functional Programming talks.
 
 - [Fun(c) 2018.4: Adam Rosien - why do Functional Programmers always talk about Algebra(s)?](https://www.youtube.com/watch?v=s2ay9nEW3ak) - Why functional programmers talk about them constantly, and how you can use them in your projects.
 - [JSConf](https://www.youtube.com/watch?v=e-5obm1G_FY) - Learning Functional Programming with JavaScript talk by Anjana Vakil at JSConf
+- [Type Members vs Type Parameters](https://www.youtube.com/watch?v=R8GksuRw3VI)
 
 ## Tools
 
