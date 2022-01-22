@@ -30,6 +30,7 @@ A novel exploration of symbolic transformations across discrete domains
 - [The Agda Wiki - Tutorials](https://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.Othertutorials)
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming)
 - [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+- [Elixir And Phoenix: Real World Functional Programming](https://www.tutorialspoint.com/elixir_and_phoenix_real_world_functional_programming/index.asp)
 
 ## People
 
