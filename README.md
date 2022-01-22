@@ -66,7 +66,10 @@ A novel exploration of symbolic transformations across discrete domains
 
 > List of Functional Programming talks.
 
+- [John De Goes - Error Management: Future vs ZIO](https://www.youtube.com/watch?v=mGxcaQs3JWI)
+- [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA)
 - [Fun(c) 2018.4: Adam Rosien - why do Functional Programmers always talk about Algebra(s)?](https://www.youtube.com/watch?v=s2ay9nEW3ak) - Why functional programmers talk about them constantly, and how you can use them in your projects.
+- [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
 - [JSConf](https://www.youtube.com/watch?v=e-5obm1G_FY) - Learning Functional Programming with JavaScript talk by Anjana Vakil at JSConf
 - [Type Members vs Type Parameters](https://www.youtube.com/watch?v=R8GksuRw3VI)
 
