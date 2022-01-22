@@ -3,9 +3,9 @@
 [![Awesome readme lint](https://github.com/fncolon/awesome-fp/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/fncolon/awesome-fp/actions/workflows/awesome-lint.yml)
 [![awesome-badge](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A collaborative curated list of Functional Programming resources, people, communities, events, tools, and books
+> Awesome list of Functional Programming.
 
-Awesome list of Functional Programming.
+A collaborative curated list of Functional Programming resources, people, communities, events, tools, and books.
 
 ## Contents
 
