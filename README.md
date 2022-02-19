@@ -50,6 +50,9 @@ A novel exploration of symbolic transformations across discrete domains
 - [@artileda](https://github.com/artileda)
 - [@miciek](https://github.com/miciek)
 - [@chenglou](https://github.com/chenglou)
+- [@aantron](https://github.com/aantron)
+- [@getify](https://github.com/getify)
+- [@smorimoto](https://github.com/smorimoto)
 
 </details>
 
