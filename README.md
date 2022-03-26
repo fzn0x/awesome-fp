@@ -34,6 +34,7 @@ A novel exploration of symbolic transformations across discrete domains
 - [Elixir And Phoenix: Real World Functional Programming](https://www.tutorialspoint.com/elixir_and_phoenix_real_world_functional_programming/index.asp)
 - [Functors, in theory and in practice! - Martin Menestret](https://www.youtube.com/watch?v=_zRBKHN8exA&feature=youtu.be)
 - [FP to the Max - John De Goes](https://www.youtube.com/watch?v=sxudIMiOo68)
+- [An Introduction to FRP - Function Reactive Programming](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
 ## People
 
