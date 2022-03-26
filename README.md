@@ -35,6 +35,7 @@ A novel exploration of symbolic transformations across discrete domains
 - [Functors, in theory and in practice! - Martin Menestret](https://www.youtube.com/watch?v=_zRBKHN8exA&feature=youtu.be)
 - [FP to the Max - John De Goes](https://www.youtube.com/watch?v=sxudIMiOo68)
 - [An Introduction to FRP - Function Reactive Programming](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
+- [Functional Reactive Programming in JavaScript](https://modernweb.com/functional-reactive-programming-in-javascript/)
 
 ## People
 
