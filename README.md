@@ -1,3 +1,5 @@
+<img src="./lambda.png" alt="drawing" style="width:200px;"/>
+
 # awesome-fp
 
 [![Awesome readme lint](https://github.com/fncolon/awesome-fp/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/fncolon/awesome-fp/actions/workflows/awesome-lint.yml)
